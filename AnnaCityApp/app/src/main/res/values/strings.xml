@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AnnaCityApp</string>
+
+    <string name="category_1">Спортзалы</string>
+    <string name="category_2">Университеты</string>
+    <string name="category_3">Концертные площадки</string>
+
+    <string name="cat1_0">Скаладром</string>
+    <string name="cat1_1">Фитнесхаус</string>
+    <string name="cat1_2">Качалка ЛЭТИ</string>
+
+    <string name="cat1_0_add">Улица славного парниши 12</string>
+    <string name="cat1_1_add">Улица Пифагора</string>
+    <string name="cat1_2_add">Улица стойкого студента</string>
+
+    <string name="cat1_0_desc">Тут люди лазают, занимаются спортом, приятное место, но можно пораниться.</string>
+    <string name="cat1_1_desc">Стандартное место программистов-зумеров, ничего особенного, гантельки, тренажеры, все дела.</string>
+    <string name="cat1_2_desc">Люди говорят, там хорошо</string>
+
+    <string name="cat2_0">ЛЭТИ</string>
+    <string name="cat2_1">ИТМО</string>
+    <string name="cat2_2">ГУАП</string>
+
+
+    <string name="cat2_0_add">Улица Профессора Попова</string>
+    <string name="cat2_1_add">Пять минут от Горьковской</string>
+    <string name="cat2_2_add">Не бывала там, где-то в городе</string>
+
+    <string name="cat2_0_desc">Тут мы проходим мобильную разработку</string>
+    <string name="cat2_1_desc">Тут люди тоже проходят мобильную разработку</string>
+    <string name="cat2_2_desc">Уверена тут тоже проходят мобильную разработку</string>
+
+    <string name="cat3_0">А2</string>
+    <string name="cat3_1">МТС музик холл</string>
+    <string name="cat3_2">Актовый зал ЛЭТИ</string>
+
+    <string name="cat3_0_add">У речки рядом с ЛЭТИ</string>
+    <string name="cat3_1_add">В жопе мира у беговой</string>
+    <string name="cat3_2_add">В ЛЭТИ</string>
+
+    <string name="cat3_0_desc">Хорошее место, везде логотипы туборга, продают алкоголь</string>
+    <string name="cat3_1_desc">Норм место, если ты пользователь МТС, другие операторы тут не работают, но песенки послушать можно</string>
+    <string name="cat3_2_desc">Тут мы поем, всем рекомендую!!!</string>
+</resources>
